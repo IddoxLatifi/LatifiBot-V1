@@ -1,0 +1,45 @@
+# 💥LatifiBot V1 💥
+
+## 🤖Beschreibung🤖
+
+Mein erstes etwas "größeres" Projekt, das einen simplen "Embed" senden kann, ein Ticket-System sowie eine Clear-Methode,
+Gay-Features und einiges mehr hat. Diese Module werden großteils in der ***RageMP/FiveM*** benutzt. Mit dem /gay Befehl
+wollen wir niemanden Beleidigen / Verletzen oder in irgend eine Art und Weiße stellung zu dem Gendern nehmen!
+
+Dieser Befehl dient lediglich der Unterhaltung!
+
+💢Dieses Projekt ist ein Discord-Bot, der verschiedene Aufgaben übernimmt. Eine vollständige Auflistung der Befehle
+findest du weiter unten.💢
+
+
+## 🤖Features🤖
+
+        "/info": "Zeigt Informationen über einen Benutzer an."
+        "/gay": "Gibt einem Benutzer eine zufällige Einstufung von 0-100%."
+        "/play": "Lässt den Bot ein Spiel spielen."
+        "/embed": "Sendet eine benutzerdefinierte Embed-Nachricht."
+        "/clear_user": "Löscht alle Nachrichten eines Benutzers in jedem Kanal der Gilde."
+        "/ticket": "Erstellt ein neues Ticket für den Benutzer."
+        "/giveaway": "Startet ein Giveaway im angegebenen Kanal."
+        AutoReact on Messages
+
+## 🤖Installation🤖
+
+Um dieses Projekt lokal auszuführen, folge diesen Schritten:
+
+1. Passe die **.env.example** in **.env** an und füge deine beliebigen Bilder,- Statuse und alles weitere ein.
+2. Öffne das Terminal und tippe ein : "pip -r requirements.txt" oder "pip3 -r requirements.txt"
+3. **Achte darauf dass du keine Strings oder sonstiges änderst! Solltest du Fragen oder anregungen zum Bot haben, kannst
+du gerne meinem Discord beitreten und nachfragen! www.discord.gg/latifimods
+4. Du kannst auch das emoji_reaction.py- Emoji umändern, solange du den Code lässt wie er ist!
+5. Wenn du alles gesetzt hast, tippe in das Terminal : "python bot.py" oder "python3 bot.py" **--debug für Debugmodus**
+4. Lade den Bot auf dein Server ein und hab Spaß mit ihm! 🤝
+
+
+## 🤖Pass auf deinen Token auf! 🤖
+
+Dein Token ist sehr kostbar und gehört nicht in die Hände von 3. daher bitte ich euch, euren Token mit bedacht zu
+behandeln. **Teile diesen Token niemals mit 3.!** Ebenfalls sende niemals Private Informationen in unseren
+Discrod-Server u.o. auch andere Server.
+
+🤖Still working on it. Updating some days!🤖
