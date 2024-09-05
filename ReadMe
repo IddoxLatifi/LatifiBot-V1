@@ -14,14 +14,14 @@ findest du weiter unten.💢
 
 ## 🤖Features🤖
 
-        "/info": "Zeigt Informationen über einen Benutzer an."
-        "/gay": "Gibt einem Benutzer eine zufällige Einstufung von 0-100%."
-        "/play": "Lässt den Bot ein Spiel spielen."
-        "/embed": "Sendet eine benutzerdefinierte Embed-Nachricht."
-        "/clear_user": "Löscht alle Nachrichten eines Benutzers in jedem Kanal der Gilde."
-        "/ticket": "Erstellt ein neues Ticket für den Benutzer."
-        "/giveaway": "Startet ein Giveaway im angegebenen Kanal."
-        AutoReact on Messages
+        - **`/info`**: Zeigt Informationen über einen Benutzer an.
+        - **`/gay`**: Gibt einem Benutzer eine zufällige Einstufung von 0-100%.
+        - **`/play`**: Lässt den Bot ein Spiel spielen.
+        - **`/embed`**: Sendet eine benutzerdefinierte Embed-Nachricht.
+        - **`/clear_user`**: Löscht alle Nachrichten eines Benutzers in jedem Kanal der Gilde.
+        - **`/ticket`**: Erstellt ein neues Ticket für den Benutzer.
+        - **`/giveaway`**: Startet ein Giveaway im angegebenen Kanal.
+        - **AutoReact** on Messages
 
 ## 🤖Installation🤖
 
